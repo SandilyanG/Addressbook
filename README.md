@@ -1,4 +1,4 @@
-Added a line for POLL SCM Check
+Added a line for POLL SCM Check.
 
 Adding new line
 
