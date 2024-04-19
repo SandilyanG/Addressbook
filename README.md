@@ -1,12 +1,4 @@
-Added a line for POLL SCM Check.
-
-Adding new line.
-
-Adding third line to check GitHub webhook implementation.
-
-Testjob Build after the completion of compilejob3.
-
-Triggering the entire build cycle.
+Build pipeline process checked.
 
 Addressbook Tutorial
 ====================
